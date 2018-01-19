@@ -3,6 +3,7 @@
   year: 1680
   video: https://youtu.be/jdRNTXaweoo
   img: https://goo.gl/GJ2uwx
+  range: 0 - 4M Views
 - artist: Johnny Horton
   name: The Battle of New Orleans
   year: 1959
@@ -28,11 +29,13 @@
   year: 1991
   video: https://youtu.be/jlF9350vGtg
   img: https://goo.gl/Qx7LeW
+
 - artist: Mozart
   name: Piano Sonata No. 16
   year: 1788
   video: https://youtu.be/XXIu0MRuIQU
   img: http://media.tumblr.com/cc1921a21c46ba793b5529c61868fe0f/tumblr_inline_mrjni8VXTE1qz4rgp.jpg
+  range: 4M - 8M Views
 - artist: Marty Robbins
   name: Big Iron
   year: 1960
@@ -58,11 +61,13 @@
   year: 2002
   video: https://youtu.be/rQ_8t6JAABI
   img: https://goo.gl/sT2qQB
+
 - artist: Beethoven
   name: Moonlight Sonata
   year: 1801
   video: https://youtu.be/TVDREzBijRI
   img: https://goo.gl/XdYa1Y
+  range: 8M - 12M Views
 - artist: Ricky Nelson
   name: Hello Mary-Lou
   year: 1961
@@ -88,11 +93,13 @@
   year: 2004
   video: https://youtu.be/Rbo9QlcLcX8
   img: https://goo.gl/es2CUC
+
 - artist: Chopin
   name: Tristesse
   year: 1832
   video: https://youtu.be/ikBD3DcSGFM
   img: https://goo.gl/fzCJC3
+  range: 12M - 16M Views
 - artist: Tammy Wynette
   name: Stand By Your Man
   year: 1968
@@ -118,11 +125,13 @@
   year: 2012
   video: https://youtu.be/Pe0n5mqkf6c
   img: https://goo.gl/TJRXma
+
 - artist: Liszt
   name: Liebestraum No. 3
   year: 1850
   video: https://youtu.be/KpOtuoHL45Y
   img: https://www.biography.com/.image/t_share/MTE5NDg0MDU1MDQyMjI5Nzc1/franz-liszt-9383467-2-402.jpg
+  range: 16M - 20M Views
 - artist: Dolly Parton
   name: I Will Always Love You
   year: 1974
@@ -148,11 +157,13 @@
   year: 2013
   video: https://youtu.be/X4MSlFq8bNI
   img: https://goo.gl/XazXxA
+
 - artist: Debussy
   name: Clair De Lune
   year: 1890
   video: https://youtu.be/CvFH_6DNRCY
   img: https://goo.gl/RW2nfF
+  range: 20M+ Views
 - artist: Rascal Flatts
   name: Bless the Broken Road
   year: 2004
