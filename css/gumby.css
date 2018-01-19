@@ -1716,7 +1716,15 @@ h1 { text-align: center; padding-bottom: 2rem; }
 
 p { text-align: center; padding: 0; margin: 0; color: #222; }
 
+img { width: 100%; }
+
 .row { display: flex; }
+@media only screen and (max-width: 767px) { .row { display: block; } }
+
+@media only screen and (max-width: 767px) { .only-large { display: none; } }
+
+.only-small { display: none; }
+@media only screen and (max-width: 767px) { .only-small { display: block; } }
 
 .title { font-size: 1.5rem; }
 

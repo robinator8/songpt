@@ -12,8 +12,28 @@ p {
   color: #222;
 }
 
+img {
+  width: 100%;
+}
+
 .row {
+  @include respond(all-phones) {
+    display: block;
+  }
   display: flex;
+}
+
+.only-large {
+  @include respond(all-phones) {
+    display: none;
+  }
+}
+
+.only-small {
+  @include respond(all-phones) {
+    display: block;
+  }
+  display: none;
 }
 
 .title {

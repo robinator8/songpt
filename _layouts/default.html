@@ -2,11 +2,12 @@
 {% include head.html %}
 <body>
   <h1>Periodic Table of Songs</h1>
+  <p class="title only-small">This site works better on bigger devices.</p>
 	<div class="row">
-    <div class="one columns"></div>
+    <div class="only-large one columns"></div>
     {% for g in site.data.genres %}
 
-		<div class="two columns">
+		<div class="only-large two columns">
 			<p class="title">{{ g.type }}</p>
 		</div>
     {% endfor %}
